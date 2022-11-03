@@ -1,0 +1,16 @@
+AddonInfo
+{
+	addonSteamAppID		550
+	addonTitle			"Realism Hard Fourteen"
+	addonVersion		0.1
+	addonAuthor			"Jack Bauer ︻デ▬—— and ℜichard"
+	addonAuthorSteamID	76561198046359406
+	addonSteamGroupName	Flemis
+	addonURL0			""
+	addonContent_Script	1
+	addonDescription	"This is the hardest Realism Hard X mutation that works in an unmodified game. This is because Source has a default hard limit of 18 players which includes survivors and specials. Any more S.I. would require kicking survivors or Metamod:Source + L4DToolZ.
+
+The internal mode name for use in the console is rh14.
+
+Source: https://github.com/alexiscoutinho/RH14"
+}
