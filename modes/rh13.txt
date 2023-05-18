@@ -5,9 +5,11 @@ rh13
 
 	hasdifficulty	1
 
-	DisplayTitle		"Realism Hard Thirteen"
+	DisplayTitle		"Realism Hard 13"
 	ShortDescription	"Up to 13 specials to make sure the horde deals with you."
-	Description			"This is the hardest Realism Hard X mutation that works in an unmodified game. This is because Source has a default hard limit of 18 players which includes survivors, specials and tank. Any more S.I. would require kicking survivors, using a modified S.I. spawning algorithm or Metamod:Source + L4DToolZ."
+	Description			"This is the hardest Realism Hard X mutation that works in an unmodified game. This is because Source has a default hard limit of 18 players which includes survivors, specials and tank. Any more S.I. would require kicking survivors, using a modified S.I. spawning algorithm or Metamod:Source + L4DToolZ.
+
+The internal mode name for use in the console is rh13."
 	Author				"Jack Bauer ︻デ▬—— and ℜichard"
 	Image				vgui/rh13
 }

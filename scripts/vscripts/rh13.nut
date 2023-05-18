@@ -1,4 +1,4 @@
-printl("Activating Realism Hard Thirteen")
+printl("Activating Realism Hard 13")
 
 MutationOptions <- {
 	ActiveChallenge = 1
@@ -6,5 +6,6 @@ MutationOptions <- {
 	cm_SpecialRespawnInterval = 15
 	cm_MaxSpecials = 13
 	cm_BaseSpecialLimit = 3
-	cm_DominatorLimit = 13
+
+	DominatorLimit = 13
 }
